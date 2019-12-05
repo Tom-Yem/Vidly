@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <h4>Here is the overview,details follows down below</h4>
-<img src="Screenshots/screenshot1" alt="none"/>
-<img src="Screenshots/screenshot2" alt="none"/>
+<img src="Screenshots/screenshot1.png" alt="none"/>
+<img src="Screenshots/screenshot2.png" alt="none"/>
 
 
 ## Available Scripts
